@@ -1,4 +1,4 @@
-# Http
+# Display details from db.json in an organization tree structure
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
