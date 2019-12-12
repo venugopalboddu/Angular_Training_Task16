@@ -1,0 +1,18 @@
+{
+  "posts": [
+    { "id": 1, "name": "IT Services", "hasChild": true, "expanded": true },
+      { "id": 2, "pid": 1, "name": "Application Dev & Support", "selected": true },
+      { "id": 3, "pid": 1, "name": "Mobile Application Development" },
+      { "id": 4, "pid": 1, "name": "Testing as a Service" },
+      { "id": 7, "name": "Our Products", "hasChild": true },
+      { "id": 8, "pid": 7, "name": "OBS" },
+      { "id": 9, "pid": 7, "name": "Traffic App" },
+      { "id": 10, "pid": 7, "name": "Inventory" },
+      { "id": 11, "name": "Emerging Technologies", "hasChild": true },
+      { "id": 12, "pid": 11, "name": "SAP CoE" },
+      { "id": 13, "pid": 11, "name": "ServiceNow" },
+      { "id": 14, "name": "Resourcing Services", "hasChild": true },
+      { "id": 15, "pid": 14, "name": "Staff Aug Services" },
+      { "id": 16, "pid": 14, "name": "Staffing Services" }
+  ]
+}
